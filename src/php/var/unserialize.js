@@ -12,7 +12,7 @@ module.exports = function unserialize (data) {
   // bugfixed by: Kevin van Zonneveld (http://kvz.io)
   // bugfixed by: Brett Zamir (http://brett-zamir.me)
   // bugfixed by: philippsimon (https://github.com/philippsimon/)
-  //  revised by: d3x
+  ///  revised by: d3x
   //    input by: Brett Zamir (http://brett-zamir.me)
   //    input by: Martin (http://www.erlenwiese.de/)
   //    input by: kilops
